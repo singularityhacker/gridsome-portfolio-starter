@@ -88,7 +88,7 @@
           <p class="mb-12">Please contact us for information on adoptions, events, or donations. Make sure to read our adoption policies. We will get back to you as soon as possible!</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form name="contact" action="#" method="POST" data-netlify="true" class="mb-12">
+            <form name="contact" method="POST" data-netlify="true" class="mb-12">
             <!-- <form action="#" class="mb-12"> -->
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
