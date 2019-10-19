@@ -27,18 +27,12 @@
 
 </ul>
 
+<h3 class="text-2xl">Adoption Forms</h3>
+<p>Please download our <a href="./adoption-application.pdf" download>Adoption Application</a>, complete it, and email it to <a href="mailto:sosrescue15644@gmail.com">sosrescue15644@gmail.com</a>.</p>
+<p>Alternately, you can print out our application and bring it to Petsmart Greensburg on a Saturday or Sunday afternoon.</p><br>
+
 <h3 class="text-2xl">Visiting Our Pets</h3>
 <p>See our available pets here or on AdoptAPet.com. Adoption inquiries are by e-mail only. Please leave your phone number and email for a response. Our organization is run by volunteers, so we appreciate your patience. If you are approved for an adoption, or would like to meet a kitten/cat, we will set up an appointment. We also bring select cats and kittens to events and pet stores on varying days. Please contact us, follow us on Facebook, or view our events page to see where we’ll be!</p><br>
-
-<h3 class="text-2xl">Adoption Forms</h3>
-<p>Click here to view, fill, or print our application.</p>
-<p>Click here to view, fill, or print our adoption contract.</p>
-
-<p>If you are unable to fill out and save the application or adoption contract, you may need Adobe Acrobat Reader DC (free global standard for reliably viewing, printing, and commenting on PDF documents). You can then download the application, complete it, save it to your computer, and email it to sosrescue15644@gmail.com.</p>
-
-<p>Alternately, you can print out our application and bring it to Petsmart Greensburg on a Saturday or Sunday afternoon.</p>
-
-
 
     </div>
 
