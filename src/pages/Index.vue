@@ -12,7 +12,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl" id="about">SOS Animal Rescue is a small pet rescue group in Jeannette, PA dedicated to saving stray and unwanted animals by providing vet care and finding them loving homes. Started in March 2015 by animal lover Dana Milliron, this small rescue is growing due to overwhelming support from friends, family, and the community. </p>
+      <p class="text-lg sm:text-xl" id="about">SOS Animal Rescue is a small pet rescue group in Jeannette, PA dedicated to saving stray and unwanted animals by providing vet care and finding them loving homes. Started in March 2015, this small rescue is growing due to overwhelming support from friends, family, and the community. </p>
       </br>
       </br>
       </br>
