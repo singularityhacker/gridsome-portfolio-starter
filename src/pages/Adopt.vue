@@ -3,7 +3,7 @@
     <div class="container-inner mx-auto py-16">
       <h2 class="text-4xl font-bold mb-16">Adopt</h2>
 
-<p>See all of our available pets on <a href="https://www.adoptapet.com/adoption_rescue/89368-sos-animal-rescue-jeannette-pennsylvania">AdoptAPet.com</a>. Have you read our adoption policies?  Contact us with questions or for visit requests.</p><br>
+<p>See all of our available pets on <a href="https://www.adoptapet.com/adoption_rescue/89368-sos-animal-rescue-jeannette-pennsylvania">AdoptAPet.com</a>. Have you read our adoption policies?  Contact us with questions or for visit requests..</p><br>
 
 <h3 class="text-2xl">Adoption Policies</h3>
 <p>In order to ensure that our pets go to loving fur-ever homes, SOS Animal Rescue has the following adoption policies in place. These policies are subject to change or vary on a case-by-case basis. We usually do not do same-day adoptions. There may be some exceptions (such as, if you have adopted from us in the past and your info is on file). There is an application process to adopt.</p><br>
