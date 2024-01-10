@@ -67,7 +67,7 @@
 
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/mad-cat.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">At this time, SOS is only caring for kittens and cats. SOS is operating as a foster home-based rescue, and does not currently own a building or shelter. For the most recent news and events, please follow us on Facebook.</div>
+          <div class="flex-1 text-lg sm:text-xl ml-6">At this time, SOS is only caring for kittens and cats. SOS is operating as a foster home-based rescue, and does not currently own a building or shelter. For the most recent news and events, please follow us on Facebook..</div>
         </div>
 
         <!-- <div class="responsive-container">
