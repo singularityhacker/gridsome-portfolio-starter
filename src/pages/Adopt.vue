@@ -28,7 +28,8 @@
 </ul>
 
 <h3 class="text-2xl">Adoption and Foster Forms</h3>
-<p>Please download our <a href="./adoption-application.pdf" download>Adoption Application</a>, complete it, and email it to <a href="mailto:sosrescue15644@gmail.com">sosrescue15644@gmail.com</a>.</p>
+<p>Please download our <a href="./cat.pdf" download>Cat Adoption Application</a> or <a href="./dog.pdf" download>Dog Adoption Application</a>, complete them, and email it to <a href="mailto:sosrescue15644@gmail.com">sosrescue15644@gmail.com</a>.</p>
+
 <p>Considering being a foster parent for our furry friends? Fill out and return this <a href="./foster-home-application.pdf" download>Foster Home Application</a> to apply.</p>
 
 <p>Alternately, you can print out our application and bring it to Petsmart Greensburg on a Saturday or Sunday afternoon.</p><br>
