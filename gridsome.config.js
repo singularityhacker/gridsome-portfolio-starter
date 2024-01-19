@@ -30,19 +30,19 @@ module.exports = {
       ],
       }
     },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'blog/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            create: true
-          }
-        }
-      }
-    },
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'blog/**/*.md',
+    //     typeName: 'Post',
+    //     refs: {
+    //       tags: {
+    //         typeName: 'Tag',
+    //         create: true
+    //       }
+    //     }
+    //   }
+    // },
     {
       use: 'gridsome-plugin-rss',
       options: {
