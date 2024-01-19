@@ -28,7 +28,7 @@
 </ul>
 
 <h3 class="text-2xl">Adoption and Foster Forms</h3>
-<p>Please download our <a href="./cat.pdf download" download>Cat Adoption Application</a> or <a href="./dog.pdf download" download>Dog Adoption Application</a>, complete them, and email it to <a href="mailto:sosrescue15644@gmail.com">sosrescue15644@gmail.com</a>.</p>
+<p>Please download our <a href="./cat.pdf" download>Cat Adoption Application</a> or <a href="./dog.pdf" download>Dog Adoption Application</a>, complete them, and email it to <a href="mailto:sosrescue15644@gmail.com">sosrescue15644@gmail.com</a>.</p>
 
 <p>Considering being a foster parent for our furry friends? Fill out and return this <a href="./foster-home-application.pdf" download>Foster Home Application</a> to apply.</p>
 
