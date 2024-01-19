@@ -13,7 +13,7 @@
     <div class="text-lg text-gray-600">If other animals are in the home, a vet reference check will be done. If you rent your home, a landlord pet agreement form will be required.</div>
   </li>
   <li class="mb-4">
-    <div class="text-lg text-gray-600">Adoption fee is $80. Two kittens adopted together is $120. Some animals who are with us for a longer period of time, or who are seniors, may have a reduced adoption fee. The fee will include 2-3 distemper vaccinations, rabies vaccinations, spay/neuter, leukemia test, 2-3 dewormings, and flea treatment (if needed).</div>
+    <div class="text-lg text-gray-600">Our adoption fee is $125 for kittens under one year or $100 for cats over one year old. Our adoption fee for two cats or kittens is $200. The adoption fee includes all age-appropriate vaccinations and their spay/neuter.</div>
   </li>
   <li class="mb-4">
     <div class="text-lg text-gray-600">The adopter agrees that cats must be kept indoors only.</div>
